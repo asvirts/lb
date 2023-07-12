@@ -1,0 +1,583 @@
+.elect {
+  position: relative;
+}
+.linton-broussard-jr {
+  position: relative;
+  font-size: 100px;
+}
+.lafayette-parish-school {
+  align-self: stretch;
+  position: relative;
+  font-size: 48px;
+  font-family: Poppins;
+}
+.on-october-14 {
+  position: relative;
+  font-size: 30px;
+  font-weight: 300;
+  font-family: Inter;
+}
+.get-started {
+  position: relative;
+  line-height: 100%;
+}
+.button {
+  border-radius: 4px;
+  background-color: #d10202;
+  box-shadow: 0 2px 4px rgba(136, 144, 194, 0.2),
+    0 5px 15px rgba(37, 44, 97, 0.15);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  padding: 16px 32px;
+  align-items: center;
+  justify-content: center;
+}
+.classic-buttonfalse {
+  height: 72px;
+  padding: 2px 0;
+  box-sizing: border-box;
+}
+.button1,
+.classic-buttonfalse,
+.classic-buttonfalse1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button1 {
+  border-radius: 4px;
+  background-color: #fff;
+  box-shadow: 0 2px 4px rgba(136, 144, 194, 0.2),
+    0 5px 15px rgba(37, 44, 97, 0.15);
+  border: 1px solid #555;
+  overflow: hidden;
+  padding: 16px 32px;
+}
+.classic-buttonfalse1 {
+  height: 72px;
+  padding: 2px 0;
+  box-sizing: border-box;
+  color: #333;
+}
+.classic-buttonfalse-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+  font-size: 14px;
+  font-family: Lato;
+}
+.elect-parent {
+  display: none;
+  flex-direction: column;
+  padding: 0 0 75px;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 4px;
+}
+.linton-broussard1 {
+  width: 1920px;
+  height: 999px;
+  overflow: hidden;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: row;
+  padding: 50px 0;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: center;
+  background-image: url(./public/linton-broussard@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  z-index: 0;
+  font-family: "Playfair Display";
+}
+.image-1-icon {
+  position: relative;
+  border-radius: 5px;
+  width: 600px;
+  height: 603.77px;
+  object-fit: cover;
+}
+.linton-is-running {
+  margin: 0;
+}
+.linton-is-running-container {
+  font-size: 16px;
+}
+.linton-is-running-container,
+.ways-that-linton {
+  position: relative;
+  display: inline-block;
+  width: 600px;
+}
+.current-lafayette-parish {
+  margin-bottom: 0;
+}
+.current-lafayette-parish-schoo {
+  margin: 0;
+  padding-left: 21px;
+}
+.current-lafayette-parish-container {
+  position: relative;
+  font-size: inherit;
+  font-family: inherit;
+  display: inline-block;
+  width: 600px;
+}
+.about-linton-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: 14px;
+}
+.about,
+.image-1-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.image-1-parent {
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 30px;
+  justify-content: flex-start;
+  gap: 30px;
+}
+.about {
+  background-color: #014a97;
+  width: 1920px;
+  overflow: hidden;
+  padding: 150px 350px 50px;
+  box-sizing: border-box;
+  justify-content: center;
+  z-index: 1;
+  font-size: 28px;
+  color: #333;
+}
+.the-future-of {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 933px;
+}
+.content {
+  position: relative;
+  width: 933px;
+  height: 48px;
+}
+.i-will-work {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 48px;
+  display: inline-block;
+  width: 739.2px;
+}
+.content1 {
+  position: relative;
+  width: 739.2px;
+  height: 48px;
+  font-size: 42px;
+}
+.ensure-all-students,
+.ensure-that-all {
+  position: absolute;
+  top: 89px;
+  left: 5.1px;
+  line-height: 28px;
+  display: inline-block;
+  width: 378px;
+}
+.ensure-that-all {
+  top: 139px;
+  left: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #52525b;
+  width: 405px;
+}
+.headphones-3-1-icon {
+  position: absolute;
+  top: -1px;
+  left: 167.3px;
+  width: 54.8px;
+  height: 46px;
+}
+.div {
+  position: relative;
+  width: 405px;
+  height: 217px;
+}
+.create-a-budget,
+.prioritize-the-budget {
+  position: absolute;
+  top: 91px;
+  left: 9.6px;
+  line-height: 28px;
+  display: inline-block;
+  width: 378px;
+}
+.create-a-budget {
+  top: 141px;
+  left: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #52525b;
+  width: 396px;
+}
+.chart-bar-33-1-icon {
+  position: absolute;
+  top: -1px;
+  left: 171.8px;
+  width: 54.8px;
+  height: 46px;
+}
+.div1 {
+  position: relative;
+  width: 396px;
+  height: 193px;
+}
+.create-healthy-environments,
+.improve-teacher-retention {
+  position: absolute;
+  top: 87px;
+  left: 9.6px;
+  line-height: 28px;
+  display: inline-block;
+  width: 378px;
+}
+.create-healthy-environments {
+  top: 137px;
+  left: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #52525b;
+  width: 396px;
+}
+.board-2-1-icon {
+  position: absolute;
+  top: -1px;
+  left: 176.6px;
+  width: 50px;
+  height: 42px;
+}
+.div2 {
+  position: relative;
+  width: 396px;
+  height: 215px;
+}
+.parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 131px;
+}
+.provide-proper-athletic,
+.provide-the-proper {
+  position: absolute;
+  top: 88px;
+  left: 9.6px;
+  line-height: 28px;
+  display: inline-block;
+  width: 378px;
+}
+.provide-the-proper {
+  top: 138px;
+  left: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #52525b;
+  width: 396px;
+}
+.archive-content-1-icon {
+  position: absolute;
+  top: -1px;
+  left: 174.2px;
+  width: 50px;
+  height: 42px;
+}
+.div3 {
+  position: relative;
+  width: 396px;
+  height: 190px;
+}
+.folder-favorite-1-icon {
+  position: absolute;
+  top: -1px;
+  left: 171.8px;
+  width: 54.8px;
+  height: 42px;
+}
+.create-additional-opportunitie,
+.improve-bus-transportation {
+  position: absolute;
+  top: 89px;
+  left: 9.6px;
+  line-height: 28px;
+  display: inline-block;
+  width: 378px;
+}
+.create-additional-opportunitie {
+  top: 139px;
+  left: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #52525b;
+  width: 396px;
+}
+.chart-3-1-icon {
+  position: absolute;
+  top: -1px;
+  left: 173px;
+  width: 52.4px;
+  height: 44px;
+}
+.div5 {
+  position: relative;
+  width: 396px;
+  height: 191px;
+}
+.engage-families-and,
+.increase-community-support {
+  position: absolute;
+  top: 80px;
+  left: 10px;
+  line-height: 28px;
+  display: inline-block;
+  width: 378px;
+  height: 50px;
+}
+.engage-families-and {
+  top: 140px;
+  left: 0;
+  font-size: 16px;
+  line-height: 26px;
+  color: #52525b;
+  width: 396px;
+  height: 53px;
+}
+.frame-parent,
+.wrapper {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.frame-parent {
+  height: 664px;
+  flex-direction: column;
+  align-items: center;
+  gap: 35px;
+}
+.frame-wrapper {
+  justify-content: flex-start;
+  font-size: 21px;
+}
+.content-parent,
+.frame-wrapper,
+.i-will-work-to {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.content-parent {
+  justify-content: flex-start;
+  gap: 30px;
+}
+.i-will-work-to {
+  align-self: stretch;
+  background-color: #fff;
+  padding: 50px 0;
+  justify-content: center;
+  z-index: 2;
+  text-align: center;
+  font-size: 20px;
+  color: #18181b;
+}
+.supporting-students-supportin-container,
+.when-families-win {
+  position: relative;
+  letter-spacing: -0.2px;
+  line-height: 28px;
+  font-weight: 600;
+  display: inline-block;
+  width: 632px;
+}
+.supporting-students-supportin-container {
+  font-size: 52px;
+  letter-spacing: -2px;
+  line-height: 62px;
+  width: 862px;
+}
+.content2,
+.when-families-win-our-communi-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.when-families-win-our-communi-parent {
+  justify-content: flex-start;
+  gap: 10px;
+}
+.content2 {
+  align-self: stretch;
+  background-color: #014a97;
+  padding: 50px 0;
+  justify-content: center;
+  z-index: 3;
+  text-align: center;
+  font-size: 16px;
+}
+.pricing-plans {
+  position: relative;
+  line-height: 42px;
+  display: inline-block;
+  width: 581px;
+  flex-shrink: 0;
+}
+.button-name {
+  position: relative;
+  line-height: 22px;
+}
+.button-name-wrapper,
+.buttonprimarywith-icon {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.buttonprimarywith-icon {
+  border-radius: 5px;
+  background-color: #d10202;
+  width: 255.76px;
+  height: 50px;
+  flex-direction: column;
+  padding: 16px;
+  box-sizing: border-box;
+}
+.thank-you-for {
+  position: relative;
+  font-size: 16px;
+  line-height: 22px;
+  color: #52525b;
+  text-align: left;
+}
+.buttonprimarywith-icon-parent {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  text-align: right;
+  font-size: 14px;
+  color: #fff;
+}
+.pricing-plans-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 281px;
+}
+.linton-broussard-campaign-container {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  width: 475.5px;
+}
+.social-icon {
+  position: relative;
+  width: 199.35px;
+  height: 19.31px;
+}
+.linton-broussard-campaign-po-b-parent {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 20px;
+}
+.widget-0 {
+  position: relative;
+  width: 475.5px;
+  height: 105.31px;
+  font-size: 16px;
+  color: #52525b;
+}
+.frame-group {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1200px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 23px;
+}
+.content3 {
+  position: relative;
+  width: 1200px;
+  height: 254.31px;
+}
+.footer {
+  align-self: stretch;
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 50px 0;
+  align-items: center;
+  justify-content: flex-start;
+  z-index: 4;
+  font-size: 32px;
+  color: #18181b;
+  font-family: "Plus Jakarta Sans";
+}
+.span {
+  color: #d10202;
+}
+.accountability-unity-container {
+  position: relative;
+  font-weight: 900;
+}
+.accountability-unity-suppo-wrapper {
+  margin: 0 !important;
+  position: absolute;
+  top: 959px;
+  left: calc(50% - 459px);
+  border-radius: 5px;
+  background-color: #fff;
+  height: 93px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 50px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: space-between;
+  z-index: 5;
+  color: #014a97;
+}
+.linton-broussard {
+  position: relative;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  font-size: 40px;
+  color: #fff;
+  font-family: Inter;
+}
