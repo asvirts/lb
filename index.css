@@ -79,7 +79,7 @@
   gap: 4px;
 }
 .linton-broussard1 {
-  width: 1920px;
+  width: 100%;
   height: 999px;
   overflow: hidden;
   flex-shrink: 0;
@@ -117,6 +117,7 @@
 }
 .current-lafayette-parish {
   margin-bottom: 0;
+  font-size: 16px;
 }
 .current-lafayette-parish-schoo {
   margin: 0;
