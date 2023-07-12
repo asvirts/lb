@@ -152,7 +152,7 @@
 }
 .about {
   background-color: #014a97;
-  width: 1920px;
+  width: 100%;
   overflow: hidden;
   padding: 150px 350px 50px;
   box-sizing: border-box;
