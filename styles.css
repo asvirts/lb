@@ -35,8 +35,20 @@ li {
   text-align: left;
 }
 
+/* h1 {
+  font-size: 100px;
+}
+
+h2 {
+  font-size: 48px;
+} */
+
 .bg-blue {
   background-color: #014a97;
+}
+
+.red {
+  color: #d10202;
 }
 
 .image-hero {
@@ -50,4 +62,18 @@ li {
   height: 100%;
   object-fit: cover;
   border-radius: 5px;
+}
+
+@media screen and (max-width: 768px) {
+  #hero {
+    background: #014a97;
+    padding-bottom: 80px;
+    height: auto;
+  }
+
+  #bar {
+    font-size: 24px;
+    padding-left: 20px !important;
+    padding-right: 20px !important;
+  }
 }
