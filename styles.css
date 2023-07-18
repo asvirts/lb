@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  text-align: center;
+}
+
+.text-left,
+ul,
+li {
+  text-align: left;
+}
+
+.bg-blue {
+  background-color: #014a97;
+}
+
+.image {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+}
