@@ -4,6 +4,31 @@
   text-align: center;
 }
 
+#hero {
+  width: 100%;
+  height: 1000px;
+  background-image: url(lb-family-new-bg.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+}
+
+#bar {
+  position: absolute;
+  max-width: 917px;
+  font-size: 40px;
+  font-weight: 900;
+  padding: 20px 50px;
+  border-radius: 5px;
+  left: 0;
+  right: 0;
+  margin-left: auto;
+  margin-right: auto;
+  transform: translateY(-90px);
+}
+
 .text-left,
 ul,
 li {
@@ -14,8 +39,15 @@ li {
   background-color: #014a97;
 }
 
-.image {
+.image-hero {
   max-width: 100%;
   height: auto;
+  border-radius: 5px;
+}
+
+.image-headshot {
+  max-width: 100%;
+  height: 100%;
+  object-fit: cover;
   border-radius: 5px;
 }
